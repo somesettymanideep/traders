@@ -1,0 +1,7 @@
+.actual{
+    min-height: 440px!important;
+}
+
+.table-striped th, .table-striped td {
+    padding: 15px 20px;
+}
