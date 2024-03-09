@@ -5,3 +5,10 @@
 .table-striped th, .table-striped td {
     padding: 15px 20px;
 }
+
+ .pricing {
+    border: 2px solid transparent;
+    transition: ease border 300ms;
+    min-height: 780px!important;
+    
+}
